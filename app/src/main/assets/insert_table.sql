@@ -1,0 +1,5 @@
+INSERT INTO account_item(id, title, closing, settlement, color) VALUES(1, '食費', 0, 0, 0)
+INSERT INTO account_item(id, title, closing, settlement, color) VALUES(2, '交通費', 0, 0, 1)
+INSERT INTO account_item(id, title, closing, settlement, color) VALUES(3, '娯楽費', 0, 0, 2)
+INSERT INTO account_item(id, title, closing, settlement, color) VALUES(4, 'その他', 0, 0, 3)
+INSERT INTO account_item(id, title, closing, settlement, color) VALUES(5, 'クレジット', 15, 0, 4)
