@@ -31,6 +31,7 @@ import java.util.*
  * 2017.1.12 ver.1.00 J.Kawahara
  *           ver.1.01 J.Kawahara Firebase アナリティクス 対応
  * 2018.1.26 ver.1.02 J.Kawahara 履歴アクティビティの戻るボタンを削除
+ * 2018.2.16 ver.1.03 J.Kawahara 丸型アイコンを更新
  */
 class MainActivity : AppCompatActivity() {
 
